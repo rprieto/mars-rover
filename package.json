@@ -1,0 +1,20 @@
+{
+   "name": "mars-rover",
+   "version": "0.0.1",
+   "private": true,
+   "description": "Mars rover",
+   "homepage": "",
+   "keywords": [],
+   "author": "",
+   "engines": {
+       "node": "0.8.x",
+       "npm":  "1.1.x"
+    },
+    "dependencies": {
+        "coffee-script": "1.5.x"
+    },
+    "devDependencies": {
+        "should": "1.2.x",
+        "mocha": "1.7.x"
+    }
+}
